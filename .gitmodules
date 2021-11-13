@@ -1,0 +1,3 @@
+[submodule "jsnpm"]
+	path = jsnpm
+	url = https://github.com/fauObregon/JSNPM.git
