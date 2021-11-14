@@ -1,3 +1,6 @@
 [submodule "jsnpm"]
 	path = jsnpm
 	url = https://github.com/fauObregon/JSNPM.git
+[submodule "random-messages"]
+	path = random-messages
+	url = https://github.com/fauObregon/random-messages.git
